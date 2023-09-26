@@ -1,5 +1,5 @@
 /**
- * Create a promise (created here), that resolves with the value "Hello World"
+ * Resolve the following promise with the value of "Hello World"
  */
 const myPromise = new Promise((resolve, reject) => {
   // your code

@@ -1,5 +1,5 @@
 /**
- * In the function, you receive and array
+ * In the following function, you receive and array as a parameter.
  * You should return a promise that resolves with a new array that contains
  * the strings from the previous array but capitalized
  * If there is an item in the array which is not a string, the promise should reject

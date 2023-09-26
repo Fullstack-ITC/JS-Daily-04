@@ -1,7 +1,7 @@
 /**
- * In the function, you get a boolean argument shouldResolve
- * Return a promise, that resolves if the argument is true
- * otherwise the promise should reject
+ * In the function, you receive a boolean argument shouldResolve.
+ * Return a promise that resolves if the argument is true
+ * otherwise reject the promise.
  * @param {boolean} shouldResolve
  */
 function resolveMeMaybe(shouldResolve) {
